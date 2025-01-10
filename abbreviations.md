@@ -1,0 +1,10 @@
+- BI : Business Intelligence - (FR) Intelligence d'affaires (ou Intelligence économique)
+- OLAP : Online Analytical Processing - (FR) Traitement analytique en ligne
+- HRIS : Human Resource Information Systems - (FR) SIRH : Systèmes d'Information de Gestion des Ressources Humaines
+- ERP : Enterprise Resource Planning - (FR) PGI  : Progiciel de Gestion Intégré
+- CRM : Customer Relationship Management - (FR) CRM : Logiciel de Gestion Client
+- GDPR : General Data Protection Regulation - (FR) RGPD : Règlement Général pour la Protection des Données
+- CNIL : National Commission on Informatics and Liberty : (FR) CNIL Commission nationale Informatique et Libertés
+- CISO : Chief Information Security Officer - (FR) RSSI : Responsable de la Sécurité des Systèmes d'Information
+- CDO : Chief Data Officer - (FR) CDO : Directeur des Données
+- DPO : Data Protection Officer - (FR) DPO : Délégué à la Protection des Données
