@@ -8,3 +8,4 @@
 - CISO : Chief Information Security Officer - (FR) RSSI : Responsable de la Sécurité des Systèmes d'Information
 - CDO : Chief Data Officer - (FR) CDO : Directeur des Données
 - DPO : Data Protection Officer - (FR) DPO : Délégué à la Protection des Données
+- PMI : Project Management Institute
