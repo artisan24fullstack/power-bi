@@ -18,19 +18,30 @@ Specifically, it can be used for purposes such as:
 
 ### The process typically consists of five phases (PMI):
 
+```
 Empathize: Understand users' needs, behaviors, and motivations through research and observation
-Define: Synthesize insights to create problem statements
-Ideate: Generate a wide range of creative solutions
-Prototype: Create tangible representations of ideas
-Test: Gather feedback on prototypes and refine solutions
-Design Thinking encourages collaboration, multidisciplinary approaches, and a focus on user needs throughout the process
 
+Define: Synthesize insights to create problem statements
+
+Ideate: Generate a wide range of creative solutions
+
+Prototype: Create tangible representations of ideas
+
+Test: Gather feedback on prototypes and refine solutions
+
+Design Thinking encourages collaboration, multidisciplinary approaches, 
+and a focus on user needs throughout the process
+```
 ### Key components of SCRUM include:
 
 ```
 Roles: Scrum Master, Product Owner, and Development Team
+
 Artifacts: Product Backlog, Sprint Backlog, and Increment
+
 Events: Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective
-SCRUM emphasizes self-organization, adaptability, and continuous improvement, with work organized into short cycles called Sprints, typically lasting two weeks
+
+SCRUM emphasizes self-organization, adaptability, and continuous improvement, 
+with work organized into short cycles called Sprints, typically lasting two weeks
 ```
 

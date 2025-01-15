@@ -25,7 +25,8 @@ making it easier to interpret information quickly
 - Graphs transform complex data into visual representations that help quickly understand trends, relationships, and patterns.
   
 ``` 
-They range from simple bar charts to sophisticated network diagrams, enabling rapid insights across various domains.
+They range from simple bar charts to sophisticated network diagrams, 
+enabling rapid insights across various domains.
 ```
 
 ## Tables, Matrices, and Segments
@@ -33,7 +34,8 @@ They range from simple bar charts to sophisticated network diagrams, enabling ra
 - Tables and matrices organize data systematically, presenting information in rows and columns. 
   
 ```
-They provide structured views of numerical and categorical data, facilitating precise comparisons and detailed analysis.
+They provide structured views of numerical and categorical data, 
+facilitating precise comparisons and detailed analysis.
 ```
 
 ## Charts
@@ -41,15 +43,18 @@ They provide structured views of numerical and categorical data, facilitating pr
 - Charts convert raw data into visual formats like bar graphs, pie charts, and line graphs. 
 
 ```
-They illustrate statistical information, temporal changes, and comparative data, making abstract numbers more comprehensible and engaging.
+They illustrate statistical information, temporal changes, 
+and comparative data, making abstract numbers more comprehensible and engaging.
 ```
 
 ## Maps
 
-- Maps represent geographical data, showing spatial distributions, regional variations, and location-based insights. 
+- Maps represent geographical data, showing spatial distributions, 
+  regional variations, and location-based insights. 
 
 ``` 
-They help visualize information across territories, revealing patterns that might remain hidden in traditional data presentations.
+They help visualize information across territories, revealing patterns 
+that might remain hidden in traditional data presentations.
 ``` 
 
 # Advanced Visualizations
@@ -59,7 +64,8 @@ They help visualize information across territories, revealing patterns that migh
 - Tree structures display nested relationships, organizational hierarchies, and complex interconnections. 
   
 ```
-They're particularly useful for showing parent-child connections, taxonomies, and multi-level categorizations.
+They're particularly useful for showing parent-child connections, 
+taxonomies, and multi-level categorizations.
 ```
 
 ## Question and Answer Visuals
@@ -67,5 +73,6 @@ They're particularly useful for showing parent-child connections, taxonomies, an
 - Interactive Q&A visualizations transform data exploration into a conversational experience. 
   
 ```
-They guide users through information by presenting insights through intuitive, responsive interfaces that adapt to user queries.
+They guide users through information by presenting insights through intuitive, 
+responsive interfaces that adapt to user queries.
 ```
