@@ -54,7 +54,8 @@ Before moving on to the next step, prioritization is necessary as you will often
  the elements of the ideal dashboard using a marker and A1 or A0 size paper.
 
 ```
-A wireframe is something done at the beginning of a project that requires the design of a graphical and digital interface. It helps ensure that everyone is aligned on the direction that will be taken.
+A wireframe is something done at the beginning of a project that requires the design of a graphical and digital interface. 
+It helps ensure that everyone is aligned on the direction that will be taken.
 ```
 
 ## Best Practice #6: Set Regular Milestones
