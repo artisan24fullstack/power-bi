@@ -1,7 +1,9 @@
 # Follow the key steps for impactful visualization
 
 - When working on designing visualizations for a dashboard, 
-  always ask yourself the following questions:
+  always ask yourself the following questions: 
+  
+  (What ? Why ? How ?)
   
 ```
 What: What data does your user want to visualize?
