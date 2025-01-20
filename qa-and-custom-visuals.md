@@ -1,6 +1,6 @@
 # Let's now explore some advanced visualizations:
 
-## Q&A Visual
+## Questions and answers visual
 
 - The Q&A visual allows you to ask questions about your data in natural language and automatically generate a visualization.
 - It's a great tool for you and your end users who want to create new visualizations on their own.
